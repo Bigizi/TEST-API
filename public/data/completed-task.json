@@ -1,0 +1,38 @@
+{
+    "status": 200,
+    "task": [
+        {
+            "name": "Uber",
+            "description": "some description text",
+            "icon": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg",
+            "assignedTo": [
+                {
+                    "username": "marius",
+                    "avatar": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg"
+                }
+            ]
+        },
+        {
+            "name": "Uber",
+            "description": "some description text",
+            "icon": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg",
+            "assignedTo": [
+                {
+                    "username": "marius",
+                    "avatar": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg"
+                }
+            ]
+        },
+        {
+            "name": "Uber",
+            "description": "some description text",
+            "icon": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg",
+            "assignedTo": [
+                {
+                    "username": "marius",
+                    "avatar": "https://i.ytimg.com/vi/zOjov-2OZ0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuq4fBAUMKIQlnwdI0os2vHeXVTg"
+                }
+            ]
+        }
+    ]
+}

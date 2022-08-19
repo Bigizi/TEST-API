@@ -1,0 +1,15 @@
+.tab{
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    --text-color: var(--text-color2);
+    color: var(--text-color);
+
+}
+.tab.active{
+    color: var(--accent-color);
+    border-bottom: 1px solid var(--accent-color);
+}
+.tabs{
+}

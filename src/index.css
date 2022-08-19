@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --text-color1: hsl(0, 0%, 0%);
+  --text-color2: hsl(0, 0%, 40%);
+  --background-color1: hsl(0,0%,100%); 
+  --background-color2: hsl(0,0%,80%); 
+  --brand-color: hsl(356, 100%, 50%);
+  --accent-color: hsl(300, 50%, 50%);
+
+  --text-color: var(--text-color1);
+  --background-color: var(--background-color1);
+
+}
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background-color: var(--background-color);
+}
